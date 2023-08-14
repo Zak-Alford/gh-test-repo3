@@ -1,12 +1,27 @@
 # gh-test-repo3
 
 ## Life Pro Tips
-- Remember that life is not a sprint, but a marathon. So, pace yourself accordingly.
-- Always strive for balance in your life. Too much of anything, even good things, can be detrimental.
-- Treat others how you want to be treated. It's not just about being nice, it's about fostering a positive environment around you.
+- Remember that life is not a sprint, but a marathon. So, pace you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennonrself accordingly.
+- Always strive for balance in you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennonr life. Too much of anything, even good things, can be detrimental.
+- Treat others how you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennon want to be treated. It's not just about being nice, it's about fostering a positive environment around you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennon.
 
 ## Weekly Challenge
-Here's a riddle for you to solve:
+Here's a riddle for you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennon to solve:
 
 I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?
 
@@ -63,4 +78,7 @@ Cooking Instructions:
 ```
 
 you
+
+## Movie Quotes
+"Life is what happens when you're busy making other plans." - John Lennon
 

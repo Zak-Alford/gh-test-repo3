@@ -34,3 +34,8 @@ Cooking Instructions:
 4. Add about a quarter of the shredded cheddar cheese; stir until cheese is melted and incorporated into sauce.
 5. Repeat with another quarter of the cheese, and continue adding cheese a quarter at a time until all cheese is melted into sauce.
 6. Stir drained macaroni into cheese sauce until coated. Enjoy!
+
+## Weekly Challenge
+Here's a riddle for you to solve:
+
+I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?
